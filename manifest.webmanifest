@@ -1,0 +1,84 @@
+{
+  "name": "Count the Triangles",
+  "short_name": "Count the Triangles",
+  "id": "com.GDevelop.CountTheTriangles",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "ios-icon-202.png",
+        "sizes": "20x20"
+      },{
+        "src": "ios-icon-292.png",
+        "sizes": "29x29"
+      },{
+        "src": "android-icon-362.png",
+        "sizes": "36x36"
+      },{
+        "src": "ios-icon-402.png",
+        "sizes": "40x40"
+      },{
+        "src": "android-icon-482.png",
+        "sizes": "48x48"
+      },{
+        "src": "ios-icon-502.png",
+        "sizes": "50x50"
+      },{
+        "src": "ios-icon-572.png",
+        "sizes": "57x57"
+      },{
+        "src": "ios-icon-582.png",
+        "sizes": "58x58"
+      },{
+        "src": "ios-icon-602.png",
+        "sizes": "60x60"
+      },{
+        "src": "android-icon-722.png",
+        "sizes": "72x72"
+      },{
+        "src": "ios-icon-762.png",
+        "sizes": "76x76"
+      },{
+        "src": "ios-icon-802.png",
+        "sizes": "80x80"
+      },{
+        "src": "ios-icon-872.png",
+        "sizes": "87x87"
+      },{
+        "src": "android-icon-962.png",
+        "sizes": "96x96"
+      },{
+        "src": "ios-icon-1002.png",
+        "sizes": "100x100"
+      },{
+        "src": "ios-icon-1142.png",
+        "sizes": "114x114"
+      },{
+        "src": "ios-icon-1202.png",
+        "sizes": "120x120"
+      },{
+        "src": "android-icon-1442.png",
+        "sizes": "144x144"
+      },{
+        "src": "ios-icon-1522.png",
+        "sizes": "152x152"
+      },{
+        "src": "ios-icon-1672.png",
+        "sizes": "167x167"
+      },{
+        "src": "ios-icon-1802.png",
+        "sizes": "180x180"
+      },{
+        "src": "android-icon-1922.png",
+        "sizes": "192x192"
+      },{
+        "src": "desktop-icon-5122.png",
+        "sizes": "512x512"
+      },{
+        "src": "ios-icon-10242.png",
+        "sizes": "1024x1024"
+      }]
+}
